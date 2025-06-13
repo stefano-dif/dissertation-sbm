@@ -1,0 +1,6 @@
+archive/
+.RData
+.Rhistory
+.Rproj.user/
+*.Rproj
+data*/
