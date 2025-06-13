@@ -1,6 +1,8 @@
 archive/
 .RData
 .Rhistory
+.Rprofile
 .Rproj.user/
 *.Rproj
 data*/
+renv/
