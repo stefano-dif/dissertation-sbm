@@ -1,4 +1,4 @@
-# Thesis Code: Stochastic Block Models: Theory and Applications
+# Thesis Code: 'Stochastic Block Models: Theory and Applications'
 
 This repository contains the R code used in the bachelor thesis titled "Stochastic Block Models: Theory and Applications".
 
